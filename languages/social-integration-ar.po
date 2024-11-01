@@ -1,0 +1,413 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Social Integration\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: Mon Feb 01 2016 11:54:31 GMT+0200 (EET)\n"
+"PO-Revision-Date: Thu Feb 18 2016 10:29:36 GMT+0200 (EET)\n"
+"Last-Translator: hmdevelopers <e3laniy@gmail.com>\n"
+"Language-Team: \n"
+"Language: Arabic\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100 >= 3 "
+"&& n%100<=10 ? 3 : n%100 >= 11 && n%100<=99 ? 4 : 5\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
+"esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Loco-Target-Locale: ar_AE\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#: ../index.php:199 ../index.php:225
+msgid "twitter"
+msgstr "تويتر"
+
+#: ../index.php:295
+msgid "facebook"
+msgstr "فيسبوك"
+
+#: ../views/not_connected.php:12 ../views/not_working.php:12
+msgid "We are sorry !!"
+msgstr "نحن اسفون"
+
+#: ../views/not_connected.php:13
+msgid "You are not connected to"
+msgstr "نت لست متصل بي "
+
+#: ../views/not_connected.php:14
+msgid "Please click"
+msgstr "الرجاء الضغط"
+
+#: ../views/not_connected.php:14
+msgid "here"
+msgstr "هنا"
+
+#: ../views/not_connected.php:14
+msgid "to access"
+msgstr "للوصول الى"
+
+#: ../views/not_connected.php:20 ../views/twitter.php:177
+msgid "Please use this callback URL for your twitter application"
+msgstr "الرجاء استخدام هذا الرابط رد لتطبيق تويتر الخاص بك"
+
+#: ../views/not_connected.php:24 ../views/not_connected.php:30 ../views/twitter.
+#: php:181 ../views/twitter.php:187
+msgid "Access Token"
+msgstr "Access Token"
+
+#: ../views/not_connected.php:34 ../views/not_connected.php:40 ../views/twitter.
+#: php:191 ../views/twitter.php:197
+msgid "Token Secret"
+msgstr "Token Secret"
+
+#: ../views/not_connected.php:44 ../views/not_connected.php:50 ../views/twitter.
+#: php:201 ../views/twitter.php:207
+msgid "Consumer Key"
+msgstr "Consumer Key"
+
+#: ../views/not_connected.php:54 ../views/not_connected.php:60 ../views/twitter.
+#: php:211 ../views/twitter.php:217
+msgid "Consumer Secret"
+msgstr "Consumer Secret"
+
+#: ../views/not_connected.php:72 ../views/twitter.php:229
+msgid "Twitter credential is saved "
+msgstr "تم حفظ بيانات الاعتماد للتويتر"
+
+#: ../views/not_connected.php:133 ../views/facebook.php:270
+msgid "Please use this callback URL for your application"
+msgstr "يرجى استخدام هذا عنوان URL لرد الاتصال للتطبيق الخاص بك"
+
+#: ../views/not_working.php:13
+msgid "Your PHP version is not compatible with social SDKs"
+msgstr "نسخة PHP غير متوافق مع عدد تطوير البرامج الاجتماعية"
+
+#: ../views/not_working.php:14
+msgid ""
+"Please contact you host administrator to update your php version to 5.4 or "
+"above "
+msgstr "يرجى الاتصال بمسؤول المضيف لتحديث إصدار PHP الخاص بي إلى 5.4 أو أعلى"
+
+#: ../views/thanks.php:17
+msgid ""
+"These people, I would like to Thank them for donations to keep this plugin "
+"updating"
+msgstr "هؤلاء الناس، وأود أن أشكرهم على التبرعات للحفاظ على هذا البرنامج المساعد"
+
+#: ../views/thanks.php:33
+msgid ""
+"These people, I would like to Thank them for keep testing  and sending "
+"feedback to enhance this plugin "
+msgstr ""
+"هؤلاء الناس، وأود أن أشكرهم على اختبار وإرسال الملاحظات إلى تحسين هذا "
+"البرنامج المساعد"
+
+#: ../views/ask_me.php:13
+msgid "Ask Developer"
+msgstr "اسال المطور"
+
+#: ../views/ask_me.php:23
+msgid "Full Name"
+msgstr "الاسم كامل"
+
+#: ../views/ask_me.php:24
+msgid "name ..."
+msgstr "الاسم ..."
+
+#: ../views/ask_me.php:32 ../views/ask_me.php:33
+msgid "E-Mail"
+msgstr "بريد الالكتروني"
+
+#: ../views/ask_me.php:40 ../views/ask_me.php:41
+msgid "Website"
+msgstr "موقع الالكتروني"
+
+#: ../views/ask_me.php:49
+msgid "My request for"
+msgstr "طلبي لـ"
+
+#: ../views/ask_me.php:65 ../views/ask_me.php:66
+msgid "Subject"
+msgstr "الموضوع"
+
+#: ../views/ask_me.php:70
+msgid "Your request is sent, We will contact you as soon as possible "
+msgstr "تم ارسال طلبك , سوف يتم الرد عليك في اسرع وقت ممكن"
+
+#: ../views/left_menu.php:38
+msgid "talk to Developer"
+msgstr "أسال المطور"
+
+#: ../views/left_menu.php:43
+msgid "Special Thanks"
+msgstr "شكر خاص"
+
+#: ../views/facebook.php:39
+msgid "Logout Facebook"
+msgstr "خروج من الفيسبوك"
+
+#: ../views/facebook.php:115
+msgid "Facebook Pages"
+msgstr "صفحات الفيسبوك"
+
+#: ../views/facebook.php:138
+msgid "Facebook Groups"
+msgstr "مجموعات الفيسبوك"
+
+#: ../views/facebook.php:148 ../views/facebook.php:170
+msgid "Owner"
+msgstr "المالك"
+
+#: ../views/facebook.php:152
+msgid "Member Request Count"
+msgstr "عدد طلبات الاعضاء"
+
+#: ../views/facebook.php:153
+msgid "Group Unread"
+msgstr "المجموعات الغير مقروءة"
+
+#: ../views/facebook.php:160
+msgid "Facebook Events"
+msgstr "احداث الفيسبوك"
+
+#: ../views/facebook.php:174
+msgid "Attending Count"
+msgstr "عدد الحضور"
+
+#: ../views/facebook.php:175
+msgid "Interested Count"
+msgstr "عدد المهتمين"
+
+#: ../views/facebook.php:176
+msgid "Maybe Count"
+msgstr "عدد ربما يأتي"
+
+#: ../views/facebook.php:183
+msgid "Facebook User Profile"
+msgstr "ملف مستخدم الفيسبوك "
+
+#: ../views/facebook.php:192
+msgid "User Profile"
+msgstr "ملف المستخدم"
+
+#: ../views/facebook.php:252 ../views/facebook.php:382
+msgid "My Profile"
+msgstr "ملفي"
+
+#: ../views/twitter.php:14
+msgid "You are not connected to twitter"
+msgstr "انت لست متصل بتويتر"
+
+#: ../views/twitter.php:29
+msgid "Logout Twitter"
+msgstr "خروج من تويتر"
+
+#: ../views/twitter.php:115
+msgid "Statuses count"
+msgstr "عدد الحالات"
+
+#: ../views/twitter.php:119
+msgid "Followers"
+msgstr "المتابعين"
+
+#: ../views/twitter.php:120
+msgid "Friends"
+msgstr "الأصدقاء"
+
+#: ../views/twitter.php:162
+msgid "Send To twitter"
+msgstr "أرسل الى تويتر"
+
+#: ../views/twitter.php:275
+msgid "Send To Twitter"
+msgstr "أرسل الى تويتر"
+
+msgid "Social Integration"
+msgstr "الاندماج الاجتماعي"
+
+msgid "http://www.hamzaalayed.com"
+msgstr "http://www.hamzaalayed.com"
+
+msgid "Hamza Alayed"
+msgstr "حمزة العايد"
+
+msgid "Integrate your WP with social media"
+msgstr "دمج ووردبرس الخاص بك مع وسائل الاعلام الاجتماعية"
+
+#: ../views/not_connected.php:28 ../views/not_connected.php:38 ..
+#: /views/not_connected.php:48 ../views/not_connected.php:58 ..
+#: /views/not_connected.php:141 ../views/not_connected.php:151 ..
+#: /views/not_connected.php:161 ../views/not_connected.php:171 ../views/ask_me.
+#: php:21 ../views/ask_me.php:30 ../views/ask_me.php:38 ../views/ask_me.php:47 ..
+#: /views/ask_me.php:63 ../views/facebook.php:278 ../views/facebook.php:288 ..
+#: /views/facebook.php:298 ../views/facebook.php:308 ../views/twitter.php:185 ..
+#: /views/twitter.php:195 ../views/twitter.php:205 ../views/twitter.php:215
+msgid "You cant leave it empty"
+msgstr "لا يمكنك تركه فارغ"
+
+#: ../views/not_connected.php:66 ../views/not_connected.php:179 ../views/facebook.
+#: php:316 ../views/twitter.php:223
+msgid "Save"
+msgstr "حفظ"
+
+#: ../views/not_connected.php:71 ../views/not_connected.php:184 ../views/ask_me.
+#: php:69 ../views/facebook.php:321 ../views/twitter.php:228
+msgid "Note"
+msgstr "ملاحضة"
+
+#: ../views/not_connected.php:137 ../views/not_connected.php:143 ..
+#: /views/facebook.php:274 ../views/facebook.php:280
+msgid "App ID"
+msgstr "App ID"
+
+#: ../views/not_connected.php:147 ../views/not_connected.php:153 ..
+#: /views/facebook.php:284 ../views/facebook.php:290
+msgid "App Secret"
+msgstr "App Secret"
+
+#: ../views/not_connected.php:157 ../views/not_connected.php:163 ..
+#: /views/facebook.php:294 ../views/facebook.php:300
+msgid "Namespace"
+msgstr "Namespace"
+
+#: ../views/not_connected.php:167 ../views/not_connected.php:173 ..
+#: /views/facebook.php:304 ../views/facebook.php:310
+msgid "Valid OAuth redirect URIs"
+msgstr "Valid OAuth redirect URIs"
+
+#: ../views/not_connected.php:185 ../views/facebook.php:322
+msgid "Facebook credential is saved "
+msgstr "معلومات الفيسبوك حفظت"
+
+#: ../views/left_menu.php:16
+msgid "Dashboard"
+msgstr "لوحة القيادة"
+
+#: ../views/left_menu.php:16 ../views/left_menu.php:31 ../views/left_menu.php:35
+msgid "Soon"
+msgstr "قريبا"
+
+#: ../views/left_menu.php:21 ../views/facebook.php:33 ../views/facebook.php:38
+msgid "Facebook"
+msgstr "فيسبوك"
+
+#: ../views/left_menu.php:26 ../views/twitter.php:23 ../views/twitter.php:28
+msgid "Twitter"
+msgstr "تويتر"
+
+#: ../views/left_menu.php:31
+msgid "Google+"
+msgstr "جوجل+"
+
+#: ../views/left_menu.php:35
+msgid "Help"
+msgstr "مساعدة"
+
+#: ../views/facebook.php:13
+msgid "You are not connected to facebook"
+msgstr "انت لست متصل في الفيسبوك"
+
+#: ../views/facebook.php:34 ../views/twitter.php:24
+msgid "Version"
+msgstr "نسخة"
+
+#: ../views/facebook.php:37 ../views/twitter.php:27
+msgid "Home"
+msgstr "الرئيسية"
+
+#: ../views/facebook.php:69 ../views/twitter.php:59
+msgid "Your donation will fund Social Integration Plugin Development"
+msgstr "تبرعك يحول لفريق تطوير SI"
+
+#: ../views/facebook.php:70 ../views/twitter.php:60
+msgid "Donor"
+msgstr "مانح"
+
+#: ../views/facebook.php:71 ../views/twitter.php:61
+msgid "Supporter"
+msgstr "داعم"
+
+#: ../views/facebook.php:72 ../views/twitter.php:62
+msgid "Friend of SI"
+msgstr "صديق SI"
+
+#: ../views/facebook.php:73 ../views/twitter.php:63
+msgid "Best Friend"
+msgstr "أفضل صديق"
+
+#: ../views/facebook.php:74 ../views/twitter.php:64
+msgid "Webmaster Idol"
+msgstr "أفضل داعم"
+
+#: ../views/facebook.php:88 ../views/twitter.php:78
+msgid "About Me"
+msgstr "عني"
+
+#: ../views/facebook.php:91 ../views/twitter.php:81
+msgid "Location"
+msgstr "مكان"
+
+#: ../views/facebook.php:95 ../views/twitter.php:85
+msgid "Education"
+msgstr "تعلم"
+
+#: ../views/facebook.php:98 ../views/twitter.php:88
+msgid "School"
+msgstr "المدرسة"
+
+#: ../views/facebook.php:99 ../views/twitter.php:89
+msgid "Type"
+msgstr "نوع"
+
+#: ../views/facebook.php:109 ../views/twitter.php:99
+msgid "Pages"
+msgstr "صفحات"
+
+#: ../views/facebook.php:110 ../views/twitter.php:100
+msgid "Posts"
+msgstr "مقالات"
+
+#: ../views/facebook.php:111 ../views/twitter.php:101
+msgid "Settings"
+msgstr "الأعدادات"
+
+#: ../views/facebook.php:130 ../views/facebook.php:196
+msgid "Talking about"
+msgstr "تحدث عن"
+
+#: ../views/facebook.php:131 ../views/facebook.php:197
+msgid "like"
+msgstr "اعجاب"
+
+#: ../views/facebook.php:238 ../views/facebook.php:368
+msgid "Facebook Page"
+msgstr "صفحة الفيسبوك"
+
+#: ../views/facebook.php:239 ../views/facebook.php:369
+msgid "Page to publish"
+msgstr "صفحة النشر"
+
+#: ../views/facebook.php:239 ../views/facebook.php:369
+msgid "Multiple Selection"
+msgstr "اختيار متعدد"
+
+#: ../views/facebook.php:255 ../views/facebook.php:385
+msgid "Send To Facebook"
+msgstr "ارسل الى الفيس بوك"
+
+#: ../views/facebook.php:262 ../views/twitter.php:169
+msgid "Load More"
+msgstr "حمل المزيد"
+
+#: ../views/footer.php:13
+msgid "Copyright"
+msgstr "حقوق الطبع"
+
+#: ../views/footer.php:13
+msgid "All rights reserved"
+msgstr "محفوظة"

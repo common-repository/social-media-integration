@@ -1,0 +1,23 @@
+.folded #wpcontent, .folded #wpfooter {
+    margin-left: 16px!important;
+}
+#wpcontent, #wpfooter {
+    margin-left: 140px!important;
+}
+#screen-meta-links,#wpfooter{
+    display: none!important;
+}
+#wpbody-content{
+    padding-bottom: 0!important;
+}
+.main-footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
+.has-error p{
+    display: block!important;
+    color: #dd4b39;
+    font-weight: bold;
+
+}
